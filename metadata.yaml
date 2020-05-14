@@ -1,11 +1,16 @@
 _repo: Sienai-Szent-Katalin-volegenye-Elbeszelesek_62041
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nagy, Endre
     gutenberg_agent_id: '51742'
     url: http://www.gutenberg.org/2009/agents/51742
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62041#Sienai-Szent-Katalin-volegenye-Elbeszelesek
 gutenberg_issued: '2020-05-06'
 gutenberg_type: Text
 identifiers:
